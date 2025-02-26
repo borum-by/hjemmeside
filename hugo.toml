@@ -1,0 +1,38 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Borum By'
+theme = "LoveIt"
+languageName = "English"
+hasCJKLanguage = false
+
+[params]
+  defaultTheme = "light"
+  dateFormat = "2006-01-02"
+  title = "Borum By"
+  description = "Borum By"
+  # logo = "/images/avatar.png"
+
+  [params.home]
+    [params.home.profile]
+      enable = false
+    [params.home.posts]
+      enable = false
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    [params.page.toc]
+    enable = false
+
+  [params.author]
+    name = ""
+
+
+  [params.footer]
+    enable = true
+    hugo = false
+    copyright = false
+    author = false
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

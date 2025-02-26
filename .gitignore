@@ -1,0 +1,31 @@
+# Hugo-generated files
+/public/
+/resources/
+hugo_stats.json
+
+# Build directories
+/assets/js/
+/assets/css/
+
+# Local environment files
+.env
+.DS_Store
+Thumbs.db
+
+# Node.js dependencies (if using npm or yarn)
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Hugo module cache
+/go.sum
+/go.mod
+
+# Netlify or Vercel build artifacts (if deploying there)
+.netlify/
+.vercel/
+
+# Temporary files
+*.log
+.cache/
