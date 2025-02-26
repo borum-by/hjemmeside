@@ -9,9 +9,7 @@ draft = false
     <h1>Velkommen til Borum!</h1>
 </div>
 
-<div style="text-align: center;">
 Hjemmesiden er under genopbygning - indhold vil komme tilbage løbende
-</div>
 
 Hvis du ønsker at være medlem kan du stadig blive det her: [https://medlem.borum-by.dk](https://medlem.borum-by.dk)
 
