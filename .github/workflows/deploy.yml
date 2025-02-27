@@ -58,8 +58,7 @@ jobs:
         run: |
           hugo \
             --gc \
-            --minify \
-            --baseURL "borum-by.dk/"          
+            --minify     
       - name: Set up SSH
         uses: webfactory/ssh-agent@v0.5.3
         with:
