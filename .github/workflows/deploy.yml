@@ -79,7 +79,10 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: hugo-site
-
+          
+      - name: Debug environment variables
+        run: env
+        
       - name: Upload to SSH server
         run: |
           rsync -avz --delete ./public/ morten@65.108.246.33:/tmp
