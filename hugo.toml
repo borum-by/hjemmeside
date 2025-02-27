@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://borum-by.dk/'
 languageCode = 'en-us'
 title = 'Borum By'
 theme = "LoveIt"
