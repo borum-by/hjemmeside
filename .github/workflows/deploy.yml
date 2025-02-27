@@ -66,6 +66,6 @@ jobs:
           ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
       - name: Upload to SSH server
         run: |
-          rsync -avz --delete ./public/ morten@65.108.246.33:/tmp
+          rsync -avz --delete ./public/ morten@65.108.246.33:~/tmp
         env:
           RSYNC_RSH: 'ssh -o StrictHostKeyChecking=no'
