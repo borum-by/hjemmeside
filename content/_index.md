@@ -3,8 +3,6 @@ date = '2025-02-26T12:11:22+01:00'
 draft = false
 +++
 
-![](images/avatar.png " ")
-
 <div style="text-align: center;">
     <h1>Velkommen til Borum!</h1>
 </div>

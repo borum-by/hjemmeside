@@ -19,10 +19,11 @@ hasCJKLanguage = false
       enable = false
 [menu]
   [[menu.main]]
-    identifier = "posts"
-    [params.page.toc]
-    enable = false
-
+    weight = 1
+    name = "Borgerforeningen"
+    url = "/borgerforeningen/"
+    identifier = "borgerforeningen"
+    
   [params.author]
     name = ""
 
