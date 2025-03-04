@@ -19,15 +19,15 @@ hasCJKLanguage = false
       enable = false
 [menu]
   [[menu.main]]
+    [params.page.toc]
+    enable = false
+  [[menu.main]]
     weight = 1
     name = "Borgerforeningen"
     url = "/borgerforeningen/"
     identifier = "borgerforeningen"
-    
   [params.author]
     name = ""
-
-
   [params.footer]
     enable = true
     hugo = false
