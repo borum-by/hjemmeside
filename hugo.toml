@@ -23,9 +23,19 @@ hasCJKLanguage = false
     enable = false
   [[menu.main]]
     weight = 1
+    name = "Aktiviter og udvalg"
+    url = "pages/aktiviter-og-udvalg/"
+    identifier = "aktiviter-og-udvalg"
+  [[menu.main]]
+    weight = 2
     name = "Borgerforeningen"
     url = "/borgerforeningen/"
     identifier = "borgerforeningen"
+  [[menu.main]]
+    weight = 3
+    name = "Opslag"
+    url = "/posts/"
+    identifier = "opslag"
   [params.author]
     name = ""
   [params.footer]
@@ -37,3 +47,8 @@ hasCJKLanguage = false
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[pagination]
+  disableAliases = false
+  pagerSize = 20
+  path = "page"
