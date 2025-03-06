@@ -10,13 +10,14 @@ hasCJKLanguage = false
   dateFormat = "2006-01-02"
   title = "Borum By"
   description = "Borum By"
-  # logo = "/images/avatar.png"
 
   [params.home]
     [params.home.profile]
       enable = false
     [params.home.posts]
       enable = false
+  [params.social]
+    rss = true
 [menu]
   [[menu.main]]
     [params.page.toc]
@@ -52,3 +53,6 @@ hasCJKLanguage = false
   disableAliases = false
   pagerSize = 20
   path = "page"
+
+[outputs]
+  home = ["HTML", "RSS"]
