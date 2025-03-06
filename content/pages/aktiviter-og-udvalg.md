@@ -6,7 +6,6 @@ title: Aktiviteter og udvalg
 - [(Fælles)skabet](/pages/skabet/)
 - [Friluftsudvalget i Borum](/pages/baaludvalget)
 - [Borum Fri Musikskole](/pages/borum-fri-musikskole/)
-- [Trabekelværket](/pages/kunst-udvalget/)
 - [Æblepresning](/pages/aeblepresning/)
 - [Fastelavn Soldater](/pages/fastelavnssoldater/)
 - [Links](/pages/links/)
