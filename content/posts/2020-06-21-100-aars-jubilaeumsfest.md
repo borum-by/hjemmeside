@@ -6,7 +6,7 @@ image: /images/uploads/2020/02/84324909_1035215963519576_1960050725446746112_o.j
 title: 100 års jubilæumsfest 14.august er AFLYST
 ---
 
-**Vi ses senere** ![?](https://static.xx.fbcdn.net/images/emoji.php/v9/tce/1/16/1f600.png)Sikkerheden mod den forbandede sygdom ![?](https://static.xx.fbcdn.net/images/emoji.php/v9/t44/1/16/1f480.png) må veje tungest. Vi aflyser arrangementet på fredag.Og ærligt talt: Hvad er der galt med at fejre et 101 års jubilæum? ![??](https://static.xx.fbcdn.net/images/emoji.php/v9/t4/1/16/1f1e9_1f1f0.png)Det gør Mette Frederiksen og Dronning Margrethe på Dybbøl til næste sommer. Så kan vi også i Borum ![?](https://static.xx.fbcdn.net/images/emoji.php/v9/t4c/1/16/1f642.png)Tak til alle, der har gjort et stort forberedelses-arbejde. Jeg håber, at kun lidt af det har været spildt
+**Vi ses senere** Sikkerheden mod den forbandede sygdom  må veje tungest. Vi aflyser arrangementet på fredag.Og ærligt talt: Hvad er der galt med at fejre et 101 års jubilæum? Det gør Mette Frederiksen og Dronning Margrethe på Dybbøl til næste sommer. Så kan vi også i Borum Tak til alle, der har gjort et stort forberedelses-arbejde. Jeg håber, at kun lidt af det har været spildt
 
 Kan det virkelig passe, at Genforeningen ikke skal markeres her i Borum?   
 Nej, selvfølgelig ikke. Corona har bare udsat årets store arrangement.  

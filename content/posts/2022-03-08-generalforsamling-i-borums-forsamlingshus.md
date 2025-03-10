@@ -6,7 +6,7 @@ image: /images/uploads/2018/03/fors.jpg
 title: Generalforsamling i Borums forsamlingshus
 ---
 
-**d. 21. marts kl 19:30 med både vådt og tørt** ![🤗](https://static.xx.fbcdn.net/images/emoji.php/v9/tb7/1/16/1f917.png)Det er igen tid til generalforsamling hvor du kan komme og høre om initiativer og aftaler omkring brugen af Borums forsamlingshus.  
+**d. 21. marts kl 19:30 med både vådt og tørt** 🤗Det er igen tid til generalforsamling hvor du kan komme og høre om initiativer og aftaler omkring brugen af Borums forsamlingshus.  
 Bestyrelsens opgave er at drifte huset og sørge for at økonomien løber rundt samtidigt med at Borums borgere får glæde af huset.  
 Der er 2 bestyrelsesposter og 2 suppleant poster på valg, hvor 1 af hver ikke genopstiller.   
 Derfor mangler vi nye folk og gerne en som har lyst til at prøve kræfter med kassererposten.  
