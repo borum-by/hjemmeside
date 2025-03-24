@@ -11,6 +11,5 @@ Udover madholdenes indsats er der også et hold borddækkere som sørger for at 
 
 For at tilmelde sig fællesspisning eller hvis der er spørgsmål, så tøv endelig ikke med at kontakte Maria Kragelund
 
-#### Kontakt info:
-
-[Maria Kragelund](mariakragelund@gmail.com)
+## Kontakt:
+[Maria Kragelund](mailto:mariakragelund@gmail.com)

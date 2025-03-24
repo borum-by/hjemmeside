@@ -6,7 +6,7 @@ type: pages
 ---
 {{< figure src="/images/uploads/2022/10/cropped-borum-Niko-1140x439.jpg" >}}
 
-# BESTYRELSEN, 2024
+# BESTYRELSEN, 2025
 
 - Thomas Strand Horsager
 - Mia Butler
@@ -14,8 +14,8 @@ type: pages
 - Sofie Holm Egense
 - Morten Bendtsen  
     Suppleanter
-- Maria Kragelund
-- Anders Vad
+- Kirstine Toftegaard Pedersen
+- Magnus Nielsen
  
 # Tilmelding og kontingent
 
@@ -34,6 +34,7 @@ Alternativt kan henvendelse rettes til bestyrelsen via mail adressen nederst på
 
 # Referater
 
+- [Referat GF 2025](/files/Referat_GF_2025.pdf)
 - [Referat GF 2019](/images/uploads/2019/02/Referat_GF_2019.pdf)
 - [Referat GF 2018](/images/uploads/2018/03/Referat-GF-2018.pdf)
  
@@ -53,5 +54,4 @@ Alternativt kan henvendelse rettes til bestyrelsen via mail adressen nederst på
  
 # Kontakt
 
-- Email: bbf@borum-by.dk
- 
+[bbf@borum-by.dk](mailto:bbf@borum-by.dk)
