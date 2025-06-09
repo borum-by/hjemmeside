@@ -46,7 +46,7 @@ Alternativt kan henvendelse rettes til bestyrelsen via mail adressen nederst på
  
 # Vedtægter
 
-- [Revidering 2025](/files/Vedtægter for Borum Borgerforening, marts 2025.docx)
+- [Revidering 2025](/files/Vedtægter%20for%20Borum%20Borgerforening%2C%20marts%202025.docx)
  
 # CVR-nummer
 
