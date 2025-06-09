@@ -12,4 +12,4 @@ Vi arbejder løbende på at opdatere siden med nyt indhold, så du altid kan hol
 
 Har du spørgsmål eller ønsker at bidrage til fællesskabet, kan du finde kontaktoplysninger under de enkelte udvalg og aktiviteter. Hvis du har rettelser eller forslag til hjemmesiden, er du også velkommen til at kontakte bestyrelsen.
 
-Hvis du ønsker at være medlem kan du stadig blive det her: [https://medlem.borum-by.dk](https://medlem.borum-by.dk)
+Hvis du ønsker at være medlem af Borgerforeningen kan du blive det her: [https://medlem.borum-by.dk](https://medlem.borum-by.dk)
