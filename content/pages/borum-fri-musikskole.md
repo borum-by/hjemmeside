@@ -1,9 +1,8 @@
 ---
 title: 'Borum Fri Musikskole'
 date: '2019-02-26T10:11:56+01:00'
-image: /wp-content/uploads/2019/02/musik.jpg
 ---
-
+{{< figure src="/images/uploads/2019/02/musik.jpg" >}}
 ## Borum Fri Musikskole 
 
 Det er sjovt og et tilløbsstykke uden sidestykke.   
