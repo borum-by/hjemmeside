@@ -13,8 +13,8 @@ type: pages
 - Susanne Lindskow
 - Sofie Holm Egense
 - Morten Bendtsen  
-    Suppleanter
-- Kirstine Toftegaard Pedersen
+    Suppleanter:
+- Kirstine Toftegaard
 - Magnus Nielsen
  
 # Tilmelding og kontingent
