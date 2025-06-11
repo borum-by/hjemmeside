@@ -13,6 +13,6 @@ title: Aktiviteter og udvalg
 - [Sankthans udvalget](/pages/skt-hans/)
 - [Legepladsen](/pages/legeplads/)
 - [Juletræsfest](/pages/juletraesfest/)
-- [Børne Gymnastik for 3-4 årige](/pages/gymnastik/)
-- [Teater udvalget](/pages/teaterforeningen/)
+- [Børnegymnastik for 3-4 årige](/pages/gymnastik/)
+- [Teaterudvalget](/pages/teaterforeningen/)
 - [Borum/Lyngby – koret](/pages/borumlyngby-koret/)
