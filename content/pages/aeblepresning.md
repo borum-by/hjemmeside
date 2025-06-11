@@ -1,9 +1,9 @@
 ---
 title: Æblepresning
 date: '2019-02-26T09:32:42+01:00'
-image: /images/uploads/2016/09/DSC_0895-870x578.jpg
 ---
-![](/wp-content/uploads/2016/09/DSC_0895-870x578.jpg)
+
+{{< figure src="/images/uploads/2016/09/DSC_0895-870x578.jpg" >}}
 
 Pressekommissionen ved Peter P:  
 Der bliver presset to gange most i september og oktober.   
