@@ -1,7 +1,7 @@
 ---
 title: Æblepresning
 date: '2019-02-26T09:32:42+01:00'
-image: /wp-content/uploads/2016/09/DSC_0895-870x578.jpg
+image: /images/uploads/2016/09/DSC_0895-870x578.jpg
 ---
 ![](/wp-content/uploads/2016/09/DSC_0895-870x578.jpg)
 
