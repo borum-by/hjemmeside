@@ -1,6 +1,6 @@
 ---
 categories:
-- Forsamlingshus
+- Borgerforeningen
 date: "2025-06-24T21:37:11Z"
 title: Delecykel i Borum
 ---
