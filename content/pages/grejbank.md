@@ -6,9 +6,11 @@ type: pages
 ---
 {{< figure src="/images/uploads/2022/10/cropped-borum-Niko-1140x439.jpg" >}}
 
-**Udlejningsaftale – Grejbanken Borum**
+Grejbanken står for udlån af udstyr til byens borgere.
 
-Grejbanken står for udlån af udstyr til byens borgere. Ved udlån accepteres nedenstående betingelser.
+Ved ønske om udlån kontaktes grejbanken: [grejbank@borum-by.dk](mailto:grejbank@borum-by.dk)
+
+Ved udlån accepteres nedenstående betingelser.
 
 ---
 
@@ -29,8 +31,6 @@ Grejbanken står for udlån af udstyr til byens borgere. Ved udlån accepteres n
 **Betaling sker ved udlevering via MobilePay til XXX.**
 **Ved udlevering sender kopi af udfyldt aftale sendes til 📧 zzz**
 
----
-
 ### Teltinformation
 
 **4x8 meter telt**
@@ -45,7 +45,6 @@ Består af:
 * 4 lange poser
 * 3 korte poser
 
----
 
 ### Betingelser for udlån
 
@@ -54,15 +53,11 @@ Består af:
 * Lejer er erstatningspligtig ved skader, der opstår under udlånsperioden, og som ikke skyldes almindeligt slid.
 * Alt udstyr skal afleveres i samme stand som ved modtagelse.
 
----
-
 ### Lejeperiode
 
 **Fra:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Til:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
----
 
 ### Lejerinformation
 
@@ -75,11 +70,6 @@ Består af:
 **Underskrift:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Dato:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
----
-
-**Kontakt Grejbanken:**
-[grejbank@borum-by.dk](mailto:grejbank@borum-by.dk)
 
  
 # Kontakt
