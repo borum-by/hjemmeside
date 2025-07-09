@@ -28,8 +28,9 @@ Ved udlån accepteres nedenstående betingelser, som udfyldes og underskrives ve
  
 **I ALT at betale:** \_\_\_\_\_\_\_\_\_\_ kr
 
-**Betaling sker ved udlevering via MobilePay til XXX.**
-**Ved udlevering sender kopi af udfyldt aftale sendes til 📧 zzz**
+* **Betaling sker ved udlevering via MobilePay til XXX.**
+
+* **Ved udlevering sendes kopi af udfyldt aftale sendes til 📧 zzz**
 
 ### Teltinformation
 
