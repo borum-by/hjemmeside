@@ -34,14 +34,12 @@ Ved udlån accepteres nedenstående betingelser, som udfyldes og underskrives ve
 
 ### Teltinformation
 
-**4x8 meter telt**
-Består af:
+**4x8 meter telt**:
 
 * 3 lange poser
 * 2 korte poser
 
-**6x6 meter telt**
-Består af:
+**6x6 meter telt**:
 
 * 4 lange poser
 * 3 korte poser
