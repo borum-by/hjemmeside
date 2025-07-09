@@ -24,13 +24,13 @@ Ved udlån accepteres nedenstående betingelser, som udfyldes og underskrives ve
 
 ☐ Køleskab
 
-500 kr pr. telt – øvrigt udstyr er gratis ved lån af telte*
+500 kr pr. telt – øvrigt udstyr er gratis ved lån af telte
  
 **I ALT at betale:** \_\_\_\_\_\_\_\_\_\_ kr
 
 * **Betaling sker ved udlevering via MobilePay til XXX.**
 
-* **Ved udlevering sendes kopi af udfyldt aftale sendes til 📧 zzz**
+* **Ved udlevering sendes kopi af udfyldt aftale sendes til zzz**
 
 ### Teltinformation
 
