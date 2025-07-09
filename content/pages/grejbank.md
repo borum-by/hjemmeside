@@ -52,7 +52,7 @@ Ved udlån accepteres nedenstående betingelser, som udfyldes og underskrives ve
 * Lejer er erstatningspligtig ved skader, der opstår under udlånsperioden, og som ikke skyldes almindeligt slid.
 * Alt udstyr skal afleveres i samme stand som ved modtagelse.
 * Telte skal være tørre og rene før nedpakning. Flapper langs jorden aftøres med klud efter behov.
-* Såfremt vejrforhold forhindre nedtagning og pakning af telte i tør tilstand, kontakt da grejbanken så senere returnering kan aftales.
+* Såfremt vejrforhold forhindrer nedtagning og pakning af telte i tør tilstand, kontakt da grejbanken så senere returnering kan aftales.
 
 ### Lejeperiode
 
