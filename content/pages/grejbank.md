@@ -51,6 +51,8 @@ Ved udlån accepteres nedenstående betingelser, som udfyldes og underskrives ve
 * Eventuelle skader eller mangler, der opdages før opsætning eller under brug, skal meddeles til **[grejbank@borum-by.dk](mailto:grejbank@borum-by.dk)**.
 * Lejer er erstatningspligtig ved skader, der opstår under udlånsperioden, og som ikke skyldes almindeligt slid.
 * Alt udstyr skal afleveres i samme stand som ved modtagelse.
+* Telte skal være tørre og rene før nedpakning. Flapper langs jorden aftøres med klud efter behov
+
 
 ### Lejeperiode
 
