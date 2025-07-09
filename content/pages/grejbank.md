@@ -8,7 +8,7 @@ type: pages
 
 Grejbanken står for udlån af udstyr til byens borgere.
 
-Kontakt venligst Grejbanken i god tid, da udlån kun sker, hvis grejbankens udvalg har mulighed for at udlevere udstyret. Grejbanken kontakes på: [grejbank@borum-by.dk](mailto:grejbank@borum-by.dk)
+Kontakt venligst Grejbanken i god tid, da udlån kun sker, hvis grejbankens udvalg har mulighed for at udlevere udstyret. Grejbanken kontaktes på: [grejbank@borum-by.dk](mailto:grejbank@borum-by.dk)
 
 Ved udlån accepteres nedenstående betingelser, som udfyldes og underskrives ved udlevering af udstyr.
 
