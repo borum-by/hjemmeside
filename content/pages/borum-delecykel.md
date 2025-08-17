@@ -1,6 +1,5 @@
 ---
 title: 'Borum Delecykel'
-date: '2025-17-08T08:36:21+01:00'
 ---
 
 Vil du gerne køre en tur på Borums el-delecykel? Her er linket til at booke den:

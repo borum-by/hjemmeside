@@ -37,6 +37,11 @@ hasCJKLanguage = false
     name = "Opslag"
     url = "/posts/"
     identifier = "opslag"
+  [[menu.main]]
+    weight = 4
+    name = "Galleri"
+    url = "/galleri/"
+    identifier = "galleri"
   [params.author]
     name = ""
   [params.footer]
