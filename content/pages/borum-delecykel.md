@@ -10,5 +10,5 @@ Cyklen står ved Borum Forsamlingshus, hvor den også skal stilles igen efter en
 God cykeltur!
 
 ## Udvalg:
-Sofia Lind Pedersen
+Sofia Lind Pedersen og
 Karen Larsen
