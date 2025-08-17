@@ -1,6 +1,6 @@
 ---
-title: 'Borum Fællesspisning'
-date: '2015-11-06T20:56:21+01:00'
+title: 'Borum Delecykel'
+date: '2025-17-08T08:36:21+01:00'
 ---
 
 Vil du gerne køre en tur på Borums el-delecykel? Her er linket til at booke den:
