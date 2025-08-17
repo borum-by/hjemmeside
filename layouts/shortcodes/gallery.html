@@ -1,0 +1,19 @@
+<div class="gallery">
+  {{ $images := resources.Match "images/**/*" }}
+  {{ range $images }}
+    <img src="{{ .RelPermalink }}" />
+  {{ end }}
+</div>
+
+<style>
+.gallery {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.gallery img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+</style>
