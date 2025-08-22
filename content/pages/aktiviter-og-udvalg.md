@@ -16,5 +16,3 @@ title: Aktiviteter og udvalg
 - [Børnegymnastik for 3-4 årige](/pages/gymnastik/)
 - [Teaterudvalget](/pages/teaterforeningen/)
 - [Borum Fri Musikskole](/pages/borum-fri-musikskole/)
-
-- [Links](/pages/links/)

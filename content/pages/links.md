@@ -1,24 +1,28 @@
 ---
 title: Links
 date: '2015-11-22T15:52:09+01:00'
+url: /links
+type: pages
 ---
 
 # Links
 
-[Artperformers – en kunstnersammenslutning](http://artperformers.dk/index.htm)
+[Aarhus Kommune](https://aarhus.dk/)
 
 [Anders Krogh](http://anders.hitart.com)
 
-[Peters BiAvl](http://petersbiavl.dk)  
-
-[Eshøjhuset](http://www.borumeshoj.dk)
+[Artperformers – en kunstnersammenslutning](http://artperformers.dk/index.htm)
 
 [Borum Auto](http://www.borumauto.dk)
 
-[Skyhost](https://www.skyhost.dk/)
+[Eshøjhuset](http://www.borumeshoj.dk)
 
-[SabroIF](http://www.sabroif.dk)
+[Lokalhistorisk Arkiv for Borum og Lyngby Sogne](https://www.borum-lyngby.dk/)
+
+[Peters BiAvl](http://petersbiavl.dk)  
 
 [Sabro Korsvej Skolen](https://sabrokorsvejskolen.aarhus.dk/)
 
-[Aarhus Kommune](https://aarhus.dk/)
+[SabroIF](http://www.sabroif.dk)
+
+[Skyhost](https://www.skyhost.dk/)

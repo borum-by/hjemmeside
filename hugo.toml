@@ -42,6 +42,11 @@ hasCJKLanguage = false
     name = "Galleri"
     url = "/galleri/"
     identifier = "galleri"
+  [[menu.main]]
+    weight = 5
+    name = "Links"
+    url = "/links/"
+    identifier = "links"
   [params.author]
     name = ""
   [params.footer]
