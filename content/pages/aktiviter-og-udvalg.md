@@ -5,7 +5,7 @@ title: Aktiviteter og udvalg
 
 - [Borum Fællesspisning](/pages/fællesspisning/)
 - [(Fælles)skabet](/pages/skabet/)
-- [Borum Delecykel](/pages/borum-delecykel/)
+- [Borum Delecykel](/delecykel/)
 - [Friluftsudvalget i Borum](/pages/baaludvalget)
 - [Borum/Lyngby – koret](/pages/borumlyngby-koret/)
 - [Æblepresning](/pages/aeblepresning/)
