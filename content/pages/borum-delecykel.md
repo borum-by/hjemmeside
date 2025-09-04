@@ -28,7 +28,7 @@ Delecykeludvalget
 - **Batteri:** Batteriet sættes på plads under bagageholderen. Inden batteriet kan tages ud, skal nøglen trykkes blidt indad og drejes til venstre.
 - **Hjælpemotor:** Tændes på displayet på knappen underst. Knapperne med de grønne pile regulerer, hvor meget hjælpemotor man bruger. Den blå farve angiver, hvor meget strøm der er tilbage.
 - **Lys i lygterne:** Baglyset tændes automatisk, når batteriet tændes. Forlygten tændes ved at trykke og holde på øverste knap på displayet, indtil der kommer lys.
-- **Opladning:** Cyklen lades op efter hvert brug og cyklen skal stå med lader i, når den ikke er i brug. Fuldt opladet og ved maksimalt udnyttelse er rækkevidden af batteriet ca. 60 km.
+- **Opladning:** Batteriet sættes i opladeren efter hvert brug. Det tager en til to timer for batteriet at lade op fra nul til fuldt opladet.
 - **Kædelås:** Cyklen låses fast efter brug. Når cyklen er i brug, efterlades kæden, med mindre man gerne vil bruge den et andet sted.
 - **Reparationer:** Ved brug for reparation kontakt Sofia 51200380 eller Karen 27527696.
 - **Cykelstyret:** Cykelstyret kan låses fast ved behov, så den ikke får ”overbalance”.
