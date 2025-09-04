@@ -30,7 +30,7 @@ Delecykeludvalget
 - **Lys i lygterne:** Baglyset tændes automatisk, når batteriet tændes. Forlygten tændes ved at trykke og holde på øverste knap på displayet, indtil der kommer lys.
 - **Opladning:** Batteriet sættes i opladeren efter hvert brug. Det tager en til to timer for batteriet at lade op fra nul til fuldt opladet.
 - **Kædelås:** Cyklen låses fast efter brug. Når cyklen er i brug, efterlades kæden, med mindre man gerne vil bruge den et andet sted.
-- **Reparationer:** Ved brug for reparation kontakt Sofia 51200380 eller Karen 27527696.
+- **Reparationer:** Ved brug for reparation kontakt Sofia 51 20 03 80 eller Karen 27 52 76 96.
 - **Cykelstyret:** Cykelstyret kan låses fast ved behov, så den ikke får ”overbalance”.
 - **Sadlen:** Sadlen kan reguleres med en sadelklemme.
 
