@@ -15,16 +15,10 @@ This system consists of:
 
 ```bash
 cp .env.example .env
-# Edit .env and set your WEBHOOK_SECRET
+# Edit .env and set your secrets
 ```
 
-### 2. Deploy with Docker Compose (Recommended)
-
-```bash
-docker-compose up -d
-```
-
-### 3. Configure GitHub Webhook
+### 2. Configure GitHub Webhook
 
 1. Go to your GitHub repository → Settings → Webhooks
 2. Click "Add webhook"
@@ -44,6 +38,9 @@ docker-compose up -d
 
 # Clone your Hugo repository into the container's repo volume
 docker-compose exec hugo-webhook git clone https://github.com/borum-by/hjemmeside.git /repo
+
+# Build static web page
+docker-compose exec hugo-webhook bash -c "cd /repo && /app/build.sh"
 ```
 
 ## Volume Management
@@ -74,12 +71,6 @@ docker-compose exec hugo-webhook bash -c "ls -la /var/www/hugo-public"
    - Resets to the latest main branch state
    - Builds the Hugo site to `/var/www/hugo-public`
    - Logs the completion time
-
-## Security Features
-
-- **HMAC Signature Validation**: Verifies webhooks are from GitHub using your secret
-- **Branch Filtering**: Only builds on pushes to the main branch
-- **Container Isolation**: Runs in a containerized environment
 
 ## Monitoring
 
