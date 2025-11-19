@@ -1,0 +1,55 @@
+services:
+  hugo-webhook:
+    build: .
+    container_name: hugo-webhook
+    restart: unless-stopped
+    ports:
+      - "8080:8080"
+    volumes:
+      - hugo-repo:/repo
+      - hugo-public:/var/www/hugo-public
+    environment:
+      - WEBHOOK_SECRET=${WEBHOOK_SECRET}
+      - BUILD_SCRIPT=/app/build.sh
+    networks:
+      - hugo-net
+    dns:
+      - 1.1.1.1
+      - 8.8.8.8
+  blog:
+    image: nginx:latest
+    container_name: hugo-blog
+    restart: unless-stopped
+    depends_on:
+      - hugo-webhook
+    ports:
+      - "80:80"
+    volumes:
+      - hugo-public:/usr/share/nginx/html:ro
+    networks:
+      - hugo-net
+  cloudflared:
+    image: cloudflare/cloudflared:latest
+    container_name: hugo-cloudflared
+    restart: unless-stopped
+    depends_on:
+      - blog
+      - hugo-webhook
+    environment:
+      - TUNNEL_TOKEN=${CLOUDFLARE_TUNNEL_TOKEN}
+    command: tunnel --no-autoupdate run
+    networks:
+      - hugo-net
+    dns:
+      - 1.1.1.1
+      - 8.8.8.8
+
+networks:
+  hugo-net:
+    driver: bridge
+
+volumes:
+  hugo-repo:
+    driver: local
+  hugo-public:
+    driver: local
