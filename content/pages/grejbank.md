@@ -20,17 +20,15 @@ Ved udlån accepteres nedenstående betingelser, som udfyldes og underskrives ve
 
 ☐ Telt 6x6 meter
 
-☐ Bord – Antal: \_\_\_ / 4 tilgængelige
-
 ☐ Køleskab
 
-500 kr pr. telt – øvrigt udstyr er gratis ved lån af telte
+500 kr pr. telt – køleskab er gratis ved lån af telte
  
 **I ALT at betale:** \_\_\_\_\_\_\_\_\_\_ kr
 
-* **Betaling sker ved udlevering via MobilePay til XXX.**
+* **Betaling sker ved udlevering via MobilePay til 538390.**
 
-* **Ved udlevering sendes kopi af udfyldt aftale sendes til zzz**
+* **Ved udlevering sendes kopi af udfyldt aftale sendes til **[grejbank@borum-by.dk](mailto:grejbank@borum-by.dk)**
 
 ### Teltinformation
 
@@ -64,11 +62,11 @@ Ved udlån accepteres nedenstående betingelser, som udfyldes og underskrives ve
 
 **Navn:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Telefonnummer:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Telefonnummer:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **E-mail:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Underskrift:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Underskrift:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Dato:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
