@@ -28,7 +28,7 @@ Ved udlån accepteres nedenstående betingelser, som udfyldes og underskrives ve
 
 * **Betaling sker ved udlevering via MobilePay til 538390.**
 
-* **Ved udlevering sendes kopi af udfyldt aftale sendes til **[grejbank@borum-by.dk](mailto:grejbank@borum-by.dk)**
+* **Ved udlevering sendes kopi af udfyldt aftale sendes til [grejbank@borum-by.dk](mailto:grejbank@borum-by.dk)**
 
 ### Teltinformation
 
