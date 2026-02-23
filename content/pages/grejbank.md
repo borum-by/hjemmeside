@@ -72,6 +72,13 @@ Ved udlån accepteres nedenstående betingelser, som udfyldes og underskrives ve
 
 **Dato:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
+# Udvalg
+
+* Jeppe Jeppesen
+* Leo Sicard
+* Mads Baggesen
+* Morten Bendtsen
  
 # Kontakt
+
 [grejbank@borum-by.dk](mailto:grejbank@borum-by.dk)
