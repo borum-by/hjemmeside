@@ -20,6 +20,8 @@ Ved udlån accepteres nedenstående betingelser, som udfyldes og underskrives ve
 
 ☐ Telt 6x6 meter
 
+☐ Telt 3x6 meter, pop-up
+
 ☐ Køleskab
 
 500 kr pr. telt – køleskab er gratis ved lån af telte
