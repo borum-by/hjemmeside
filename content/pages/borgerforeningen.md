@@ -34,6 +34,7 @@ Alternativt kan henvendelse rettes til bestyrelsen via mail adressen nederst på
 
 # Referater
 
+- [Referat GF 2026](/files/Referat_GF_2026.pdf)
 - [Referat GF 2025](/files/Referat_GF_2025.pdf)
 - [Referat GF 2019](/images/uploads/2019/02/Referat_GF_2019.pdf)
 - [Referat GF 2018](/images/uploads/2018/03/Referat-GF-2018.pdf)
