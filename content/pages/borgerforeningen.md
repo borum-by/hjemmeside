@@ -53,6 +53,6 @@ Alternativt kan henvendelse rettes til bestyrelsen via mail adressen nederst på
 
 - 37048267
  
-# Kontakt
+# Kontakt TEST
 
 [bbf@borum-by.dk](mailto:bbf@borum-by.dk)
