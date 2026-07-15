@@ -8,31 +8,28 @@ type: pages
 
 Grejbanken står for udlån af udstyr til byens borgere.
 
-Kontakt venligst Grejbanken i god tid, da udlån kun sker, hvis grejbankens udvalg har mulighed for at udlevere udstyret. Grejbanken kontaktes på: [grejbank@borum-by.dk](mailto:grejbank@borum-by.dk)
+## Udstyr til udlån
 
-Ved udlån accepteres nedenstående betingelser, som udfyldes og underskrives ved udlevering af udstyr.
+* Telt 4x8 meter
+* Telt 6x6 meter
+* Telt 3x6 meter, pop-up
+* Køleskab
 
----
+**Pris:** 500 kr pr. telt – køleskab er gratis ved lån af telte.
 
-### Udstyr (sæt kryds og angiv antal)
+**Betaling sker ved udlevering via MobilePay til 538390 - Borum Borgerforening**
 
-☐ Telt 4x8 meter
+## Lån udstyr
 
-☐ Telt 6x6 meter
+Brug vores online booking-system til at anmode om lån af udstyr:
 
-☐ Telt 3x6 meter, pop-up
+**[Anmod om lån af udstyr](https://grejbank.borum-by.dk/booking)**
 
-☐ Køleskab
+Grejbanken kontakter dig herefter for at bekræfte tilgængelighed og aftale udlevering.
 
-500 kr pr. telt – køleskab er gratis ved lån af telte
- 
-**I ALT at betale:** \_\_\_\_\_\_\_\_\_\_ kr
+Ved udlevering udfyldes og underskrives udlejningsaftalen digitalt.
 
-* **Betaling sker ved udlevering via MobilePay til 538390 - Borum Borgerforening**
-
-* **Ved udlevering sendes kopi af udfyldt aftale sendes til [grejbank@borum-by.dk](mailto:grejbank@borum-by.dk)**
-
-### Teltinformation
+## Teltinformation
 
 **4x8 meter telt**:
 
@@ -44,41 +41,22 @@ Ved udlån accepteres nedenstående betingelser, som udfyldes og underskrives ve
 * 4 lange poser
 * 3 korte poser
 
-
-### Betingelser for udlån
+## Betingelser for udlån
 
 * Lejer er ansvarlig for, at teltet er forsvarligt fastgjort til jorden under hele brugen.
 * Eventuelle skader eller mangler, der opdages før opsætning eller under brug, skal meddeles til **[grejbank@borum-by.dk](mailto:grejbank@borum-by.dk)**.
 * Lejer er erstatningspligtig ved skader, der opstår under udlånsperioden, og som ikke skyldes almindeligt slid.
 * Alt udstyr skal afleveres i samme stand som ved modtagelse.
-* Telte skal være tørre og rene før nedpakning. Flapper langs jorden aftøres med klud efter behov.
+* Telte skal være tørre og rene før nedpakning. Flapper langs jorden aftørres med klud efter behov.
 * Såfremt vejrforhold forhindrer nedtagning og pakning af telte i tør tilstand, kontakt da grejbanken så senere returnering kan aftales.
 
-### Lejeperiode
-
-**Fra:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-**Til:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-### Lejerinformation
-
-**Navn:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-**Telefonnummer:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-**E-mail:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-**Underskrift:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-**Dato:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-# Udvalg
+## Udvalg
 
 * Jeppe Jeppesen
 * Leo Sicard
 * Mads Baggesen
 * Morten Bendtsen
  
-# Kontakt
+## Kontakt
 
 [grejbank@borum-by.dk](mailto:grejbank@borum-by.dk)
