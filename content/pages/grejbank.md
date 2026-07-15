@@ -21,7 +21,11 @@ Grejbanken står for udlån af udstyr til byens borgere.
 
 Brug vores online booking-system til at anmode om lån af udstyr:
 
+<<<<<<< Updated upstream
 [Anmod om lån af udstyr](https://grejbank.borum-by.dk)
+=======
+<a href="https://grejbank.borum-by.dk/booking" style="display: inline-block; background-color: #1976d2; color: white; padding: 16px 32px; font-size: 1.2em; font-weight: bold; text-decoration: none; border-radius: 8px; margin: 16px 0;">Anmod om lån af udstyr</a>
+>>>>>>> Stashed changes
 
 Grejbanken kontakter dig herefter for at bekræfte tilgængelighed og aftale udlevering.
 
