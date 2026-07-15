@@ -17,13 +17,11 @@ Grejbanken står for udlån af udstyr til byens borgere.
 
 **Pris:** 500 kr pr. telt – køleskab er gratis ved lån af telte.
 
-**Betaling sker ved udlevering via MobilePay til 538390 - Borum Borgerforening**
-
 ## Lån udstyr
 
 Brug vores online booking-system til at anmode om lån af udstyr:
 
-**[Anmod om lån af udstyr](https://grejbank.borum-by.dk/booking)**
+[Anmod om lån af udstyr](https://grejbank.borum-by.dk)
 
 Grejbanken kontakter dig herefter for at bekræfte tilgængelighed og aftale udlevering.
 
