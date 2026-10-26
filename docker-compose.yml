@@ -17,7 +17,10 @@ services:
       - 1.1.1.1
       - 8.8.8.8
   blog:
-    image: nginx:latest
+    build:
+      context: .
+      dockerfile: nginx.Dockerfile
+    image: hjemmeside-blog
     container_name: hugo-blog
     restart: unless-stopped
     depends_on:
@@ -29,7 +32,7 @@ services:
     networks:
       - hugo-net
   cloudflared:
-    image: cloudflare/cloudflared:latest
+    image: cloudflare/cloudflared:2026.10.3
     container_name: hugo-cloudflared
     restart: unless-stopped
     depends_on:
