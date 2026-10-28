@@ -10,12 +10,13 @@ type: pages
 
 - Thomas Strand Horsager
 - Mia Butler
-- Susanne Lindskow
 - Sofie Holm Egense
-- Morten Bendtsen  
-    Suppleanter:
+- Aja Lykke Heinze
 - Kirstine Toftegaard
+
+Suppleanter:
 - Magnus Nielsen
+- Rikke Smidt
  
 # Tilmelding og kontingent
 
